@@ -1,0 +1,49 @@
+I bought this phone as part of the Sprint/Nextel SERO plan.
+
+I used it for about 14 days before deciding that it didn't fit my needs for several reasons outlined below:
+
+- Battery life was sporadic -- I got maybe a day worth of power from it. One time it completely discharged overnight. For the price of the phone (and the two year contract it carries) this is a dealbreaker.
+
+- The Nextel network coverage has gone downhill in my area (I was a former Nextel subscriber for 3 years - so I have some experience with coverage around town). I was getting disconnects and sporadic no signals.
+
+- The phone would sporadically mute the ringer. An incoming call would light up the display but there would be no ringing. This seems to happen after I had put the phone on vibrate and then turned it back to ring.
+
+- For the same monthly service fee, I was getting less access to web services and no high speed Internet ability. Admittedly the high speed access is not as useful on a tiny screen -- but if I'm going to be locked into a 2 year contract I would like to have some fast internet access on the phone. The i880 still uses the slow Nextel data network.
+
+I was not a Direct Connect/Walkie Talkie user. If I were, then my opinion of this phone might be a little higher (since Nextel presently has arguably the best fully functioning walkie talkie network). I could not justify being locked into a 2 year contract with equipment that seemed sub-par on a network that did not (and likely never will) support the latest high speed technologies.
+
+Below were my initial impressions during the time I used the phone:
+
+Thankfully Motorola designed the phone so the micro-SD card is accessible from the outside -- no need to pull the battery to update the card. 
+
+Here's the big things I don't like.
+
+1. You CANNOT use any mp3 songs that you transfer to the micro-sd card as ringtones. 
+2. You also cannot readily load additional wallpapers unless it is a picture you took with the phone or a paid download. Any message (mms) that you send to yourself can only be set as a caller id image and not wallpaper. 
+3. Battery life on my phone is flaky - I'm getting maybe a day and one-half with usage that approximates 60 minutes talk time and perhaps 6 to 10 picture messages.
+
+You must pay Nextel to download ringtones. There are some users who have modified the phone and reportedly are able to use ringtones off their micro-SD memory card - however the process is more technical than what your average user might want to tangle with.
+
+Note: Sprint and Nextel are both owned by the same company. If you're making a decision on Sprint vs. Nextel, there are only a couple reasons that I can think of to recommend Nextel over Sprint. First, if the Nextel coverage is better. Second, if you have a need to use the Nextel Walkie Talkie feature.
+
+The Sprint side of the company features phones with significantly enhanced web browsing and higher speed data communications. The Nextel side clings to the larger phones and aims their services at the industrial/construction market. For almost every consumer, the Sprint side is a better deal. Sprint in my experience has better customer service whereas Nextel tends to transfer you endlessly among a variety of customer service representatives.
+
+Here's my summary of this phone after using it about two weeks:
+
+The Good:
+
+-beautiful speaker phone
+-compact design / solid feel
+-2 megapixel camera, ability to capture movies
+-flip swings open when you push a button
+-Nextel sms/mms messages can now be auto-downloaded - I believe this is the first Nextel phone to sport this feature
+-nice loud audio
+-both Nextel walkie talkie and DirecTalk support
+
+The Bad:
+-can't play ringtones off Micro SD or via any other non-Nextel transfer (Note: Technically some people have been using a Motorola product called webjal to make transfers with a cable - but this may be more technical than the average user would like to tackle)
+-Nextel is in my opinion on their way out as a carrier, soon to be completely assimilated into the Sprint side of things. While not entirely unexpected, it means that Nextel plans and features are not as attractive to non-construction users (Nextel's core group). If you want Mobile to Mobile unlimited minutes you pay more versus most Sprint plans which include them. Nextel doesn't have the super fast data speeds or network web browsing of competing carriers. Most web browsing on Nextel is limited to character based wap sites that both crawl along speedwise and present unexciting character based screens.
+-the phone is a little bigger that what some have grown accustomed to.
+-while not phone related, some users in larger cities have reported the iDen system is nearing capactity with a lot of busy signals.
+-I am only getting about a day of battery life - which is extremely low.
+

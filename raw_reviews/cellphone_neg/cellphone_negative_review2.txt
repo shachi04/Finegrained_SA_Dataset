@@ -1,0 +1,27 @@
+
+First, let me say that I really wanted to like this device. I had patience and understanding for a while but it got me nowhere.
+The main issue with this phone is its operating system: Windows Mobile 5.0.
+This OS is a piece of fluff garbage. Simple things that should take a click or two have become so difficult to access that you basically just give up.
+
+Main Gripes
+-----------
+Connectivity with T-Mobile is horrible: accessing the aim function doesn't work 9 times out of 10. E-mail functions are useless. I tried finding a solution for hours and the best I got was having my email checked every hour but deleted shortly after that. Internet explorer can NEVER find the page that I'm looking for and consistently tells me to try again. Even when connected to wi-fi this happens. Let me tell you also that this device does not let you choose between wi-fi and edge. If you already opened IE and you were using EDGE then it will continue to use EDGE unless you restart the phone with wi-fi enabled.
+
+Calls
+-----
+Making a call was so difficult that I wanted to smash the phone on a daily basis. Usually, I would press talk to dial a call and it would immediately say "Call Ended." It's as if the device doesn't even want to try.
+Also, when answering a call, well trying to answer a call, it would drop it as soon as I pressed talk. What the HELL is THAT!? What good is a phone if you can't make or receive calls? Keep in mind this happens around half the time. Also keep in mind that I live in NEW YORK CITY! My calls should not be dropping except for when I'm in the subway. The side volume button is extremely annoying causing the volume to go to both extremes within one conversation. Not only that, but when you disable it, you have no other method of changing the volume on the device. ARGGGHHH!
+
+Keyboard
+-------
+While the keyboard is basically easy to type on, the phone is buggy. First off, the t9 sucks! It will completely change the word you are typing to a word that's in its dictionary while you're typing! EXTREMELY FRUSTRATING! Now get this, you can't even permanently keep the t9 off. So you have to keep going into the menu to change it to normal ABC mode. While I appreciate the ability to have faster typing, isn't the whole point of a QWERTY being able to type without using t9? When you actually get to typing, sometimes, the keys will "stick" and a character will continuously repeat until you stop it. This isn't a physical keyboard issue but yet another software issue.
+
+Programs
+-------
+For all you techno oriented people out there (basically everyone buying this phone), the programs this device has available for download are minuscule. Not only is the catalog of programs extremely limited but when using a JAVA program (which most programs are coded in) the Dash's JAVA program will not allow you to open those programs. I ALWAYS get an error stating "A Java midlet is not responding" It then gives me the choice of waiting or killing the app. Neither of which solve anything.
+
+This phone is so useless it's beyond words. I could go on and on about it's issues but I really don't care to.
+
+STAY AWAY FROM THIS PHONE!
+While T-mobile customer support is very helpful and friendly, their service/coverage is non-existent. Calls are constantly dropped, I get voice mails without the phone even ringing, and internet connectivity is never really available.
+Please, do yourself a favor and wait for the iPhone.

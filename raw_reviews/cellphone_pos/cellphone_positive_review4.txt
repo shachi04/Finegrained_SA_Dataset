@@ -1,0 +1,36 @@
+There are many good reviews on 8525 positive features and most are fairly accurate.  Lots of good features in the 8525.  
+
+My intent is to document some of the shortcomings of the 8525 and Windows Mobile OS in the hope that MS and HTC will heed and correct in the future.  I am a business user who wanted to combine my HP IPAQ 1945 and my Motorola V550 Cell phone into one device. I use a Motorola H700 headset with my old devices and the 8525.
+
+My overall assessment is; Replacing my two 3 year old devices resulted in me accepting some compromises that I don't think are necessary in terms of functionality and ease of use.  All the features I describe below were in the earlier Windows Mobile OS used by my IPAQ 1945 or my Motorola flip phone. 
+
+If readers find that there is a way to perform any of the deficiencies I describe please let me know.  My suggestions in rough order of priority:
+
+1)  Blue tooth headsets. Blue tooth audio should always come through the blue tooth headset regardless of the PDA volume setting.  To hear my voice commands repeated, I have to turn on the annoying sound of the PDA, so when I voice dial via my Blue tooth headset, I can hear my voice commands repeated back.  I am referring to the standard voice dial that comes with the 8525.  One quick solution would be to tie BT headset to the phone volume setting rather than the PDA.  Even nicer would be an upgrade that allows full audio with the "VoiceCommand" software (this is documented in many other reviews).  Another nice feature of my Motorola cell phone was as soon as the BT was detected the phone volume changed from vibrate to audio if it was set to vibrate.  It changed back to the original audio setting after turning off the BT headset.
+
+1a)  If I request voice dial via my blue tooth headset the screen should ALWAYS display the voice dial page.  Instead the initial "Owner Info" page stays up and you can't see the name on the screen unless you reach down and tap the screen.  Not desirable when driving.  If you didn't set the PDA to its annoying noise level you can't hear the name you requested either.
+
+2) Need to be able to control the PDA and phone volume independently for Audio, Vibrate or OFF.  For example need to be able to tie turn up the phone volume while keeping the PDA volume setting on OFF or vibrate.  
+
+3) Need to be able to program how long the display stays on.  I am constantly groping to find the power button on the side to keep the display on as it turns off when I need to see something.  
+
+4) I would buy a non Bluetooth headset if one was available for long drives when my BT headset battery is dead.  Only solution I see is the 8525 stereo headphones and turning on the speaker which is a little noisy for listeners while driving on the freeway.
+
+5) Provide a built in way to make the PTT and Comm Manager, and IE Quick key buttons programmable.  I would use them for many other functions; such as PTT bringing up the volume control so I can change it from vibrate to audio to speaker (need to be able to select speaker here see below).
+
+6) Give me a way to press an external button to toggle between speaker on and off.  I can't easily push the speaker icon with my fingers.  Suggestion. Add a radio button on the volume control that allows you to select speaker phone. Yes you can select the phone speaker soft button, but often the display has gone blank and the keypad is showing.  Turning speaker on/off should be easier. 
+
+7) Provide option to save email attachments to storage card.  That was on my IPAQ Windows OS and allowed me to capture lots of attachments without running out of memory. 
+
+8) Remember the Filter setting I selected for Tasks.  If I have filtered by a task category during that session remember the filter I selected.   Currently I have so many tasks there is a 5 second delay to bring them all up 
+
+9) Give me a way to turn off have the Internet browser Quick Key (or make this button programmable) I am always having to close the browser because it gets hit/selected
+
+10) Let me Edit/Paste with one step for notes, word, task notes etc.  The IPAQ has "Edit" at the bottom.  With 8525 OS you must select Menu, then Edit, then Copy.  Keep Edit on the bottom. 
+
+Question: is there a key on the keypad to select CNTRL C for copy like what is done on a PC (the letters are underlined in the menu, but I don't see a CNTRL key on the keypad?
+
+11) Allow the trackwheel to scroll up to the icons on the top and then use the nav button to move across the icons (might be the way to allow an external way to set audio volume)
+
+12) If I power off the device have it remember my input selection.  For example I select "Letter Recognizer".  But I must reset each time I power 8525 off.  
+

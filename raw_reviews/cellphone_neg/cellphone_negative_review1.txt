@@ -1,0 +1,76 @@
+
+In summary, Microsoft's software and T-Mobile's service have ruined a brilliant design (although with a couple of flaws) from HTC.
+
+There are many pros and cons about this device and the service that it is shackled to.  I will break it down to Hardware, Software and Cell Phone Service Provider.
+
+Hardware Pro's:
+A lot has been written about this aspect of the device, so I'll keep this to a minimum - The best form factor I've ever seen.  This device provides you the power of a Blackberry without the bulky hardware so I can put it in my pocket comfortably and not have to look like a geek with the belt holster.
+- A key selling point for me was the combined Bluetooth, Wi-Fi and quad-band connectivity that enabled me to connect a wireless headset, cruise web pages and have access to email when in the US or Europe.
+
+- The phone quality is excellent.
+
+- The keyboard layout is excellent and easy to use for medium sized emails.
+
+- The battery life is great when Wi-Fi is not enabled and adequate when it is. (I've rarely struggled with a dying battery.)  Stand-by power management appears to be excellent.
+
+- Charging of the device is very quick.
+
+- The display, while a little small, is crystal clear and surprisingly easy to use given its size.
+
+- The camera is pretty good and it's been really great emailing photo's to people as I'm traveling around.
+
+[After all of the cons that you'll read below you'll wonder why I ever bought the device and why I still use it.  Well here it is:
+1. T-Mobile locked me into a 2 year contract on a very expensive device.
+2. It has great hardware that I can use in the US and Europe, I'm just hoping that Microsoft will finally get it right. ]
+
+Hardware Con's
+
+- The touch sensitive volume button is the most ill-conceived feature I've ever seen.  Even after playing around with various settings it is still hard to quickly set the volume at the desired level.  Even worse, when using the phone your ear or finger can inadvertently hit the control and randomly change the volume.
+
+- The TI OMAP 850 at 201MHz is not beefy enough for the software that is loaded onto the device.  However, the blame could well be laid at Microsoft's door for writing inefficient code and having poor scheduling software between tasks and applications.  Either way, performance is very slow for some basic functions (see below) and I'm afraid some of the blame needs to be laid at the choice of processor.
+
+Software Pro's
+- Not many that really come to mind.
+
+Software Con's 
+(I hope you're sitting comfortably)
+
+- When a call is on call waiting the phone fails to give an option to the user to select which call to take and which call to put on hold or drop/ignore.  On the occasions this problem has occurred with me the call that is dropped/kept appears random with a preference to switch to the incoming call no matter what is depressed.  The other call is dropped and not put on hold.
+
+- When a call is incoming and the keyboard is locked, if the user depresses the green phone key the call is dropped.  This is extremely counter intuitive.  If the user presses anything other than the "answer" key the call is dropped and sometimes the call has been dropped even when I have depressed the "answer" key.
+
+- The contacts database is extremely rudimentary with a very limited number of views and filters that can be used.  Even worse, upon selection, the contacts database takes between 5 and 8 seconds to open.  Now, I have what some would call a large database of contacts, but considering that the Palm OS version responded immediately with a far more sophisticated use model this excuse does not wash.  It's simply a poorly architected database.
+
+- The user interface for entering a new contact is rudimentary (as are all dialog windows on this device.)
+
+- One of the most annoying aspects of this device is the alarm clock.  The user interface looks like it was written in 10 minutes and was clearly not verified for correctness.  The digital watch I had in 1982 had the same degree of sophistication but with a more intuitive use model and was more thoroughly debugged. First of all, the user only gets to select a time and if the alarm is on or off.  From the interface you would assume you could only set a single alarm....if only it were that obvious.  The best way to explain this buggy piece of software is with an example: I set the alarm for 6am; the next day the alarm goes off at 6am.  That day I set the alarm for 7am - the following day the alarm goes off at 6am and 7am.  The next day I set the alarm for 7:30am and you guessed it, the alarm now goes off three times.  The best that I've been able to deduce (of course, this type of behavior is not documented in the user manual that comes with the device) is that the user has to actively select "off" for the current setting before setting "on" for the new time.  But there is no indication of what alarms are set, so after a while or a particularly busy week you can loose track of what's set and what isn't....the only way to clear all of the alarms that have been set is a hard re-boot.
+
+- The calculator is a joke.  If this took an engineer 10 minutes to write they should be fired.  A calculator watch in the '80's had more sophisticated features.  The user interface is so bad it's hard to describe it in words. 
+
+- Microsoft truly does not understand how a user would like to use the device and instead insists on using the same usage model that they've inflicted upon us since Windows 95.  Most features or function have to be navigated through the Start menu button.  Applications are nested and features are hidden behind several annoying menu selections.  Some features are simply hard to find, but should it really take so many menu selections to find common tools or applications?
+
+- The use of alarms or reminders is ambiguous - to put the device in "Silent" mode, but leave alarms on because you want to sleep and only want your alarm to wake you up, for example, does not work.  Calendar reminders will be active as they are assigned the alarm property instead of their own or the notification property.  The only way around this is to cancel reminders for all day events....otherwise you get an alarm at midnight.
+
+- So, on my Nokia phone a thousand years ago, when I went to Europe my phone would have a simple selection for the new frequency I needed once landed.  The phone would then automatically connect to the provider available.  It wasn't completely automatic, but the user interaction was simple and intuitive.  Not with the Dash.  First of all T-Mobile doesn't help by keeping a radio button on your online account that you have to select to enable international roaming.  The feature is free so why not add a selection anyway?  All you know when you get to your destination is that your phone won't connect to the local network no matter what you do.  Now, assuming that you worked this out, you are now faced with the challenge of actually connecting to the local provider's network.  On my Blackberry this was automatic, but of course with Microsoft there are selections to make, searches to activate and various other contortions that need to be gone through before you connect to the provider of choice.  Assuming that you get connected at all.
+
+- ActiveSync: This is the most annoying piece of software in that it just does not work.  Worse still, when it does not work it gives a cryptic error message stating that an error has occurred and some data will be lost next time you perform synchronization.  It does not provide you with a fix, a hint or a path so that you don't lose data.  It does not even tell you the data that was lost.  So, I'm using a Microsoft Mobile OS with Microsoft XP and Microsoft Outlook and they can't get that right?  (OK, it maybe serves me right for signing up to so much Microsoft, but come on.)  This was another primary purchasing driver for me.  I am very busy and want to have my schedule up to date between my PC and PDA - all the time.  It's the only way to keep organized.  I thought that with the same provider of all the software I'd be OK.  Also, as this feature has been around for over a decade from Palm and perfected by Blackberry....how hard can it be?
+
+There are probably annoying nits that I have with the software, but those are the major ones.  And they are major.
+
+Considering this is Windows Mobile 5.0 what on earth were they doing for 1.0, 2.0, etc.?
+
+Service Provider Pro
+
+- T-Mobile is useful to me for traveling in Europe.  They have much better coverage over there than in the US (where I'm actually paying).
+
+- Their package is competitive.
+
+Service Provider Con:
+
+- Coverage is not good enough.  I'm in San Francisco and I have dead spots in my house.
+
+- Their back-end connectivity with your email providers is terribly buggy.  At random times you will get cryptic messages saying that you must have something wrong with your connection and emails can't be accessed.  But you know there's nothing wrong with your connection because you've been on the browser.  Also, there was a whole day that emails were not accessible.  Because of the many issues that I'd had with email set up and maintaining a connection I went through various debug routines wondering what had failed.  When I finally called technical support they told me that their service was down - no apology, no notification, no nothing.  Certainly no minutes to make up for the inconvenience.  (So, why didn't I call technical support earlier?  read below...)
+
+- Their technical support structure is terrible.  I have collectively wasted over 12 hours of my life on their "help" line.  I'm not going to go into details as it would just take too long.  Bottom line, if you have a problem with your phone say "Dash" at the prompt and then ask for Tier Three Data support.  Everything you get before that is a waste of your time as the technicians you'll encounter have inadequate training.  If you are then put on hold and are given another number to dial - DO NOT DO IT - This cycles you back around to Tier Two Data Support and you have to go back to the back of the line for someone that understands the device.
+
+So, should you buy it?  Wait until Windows Mobile 6.0 comes out at least.     Maybe another provider will pick up the device by that time. Then see what else is available
