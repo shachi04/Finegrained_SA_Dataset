@@ -4,7 +4,7 @@ GoldStandard Word-Polarity
 -----------------------------------------------------------------------------
 
 This GoldStandard_Word_Polarity list has been created by Shachi H Kumar, from 
-the GoldStandard annotated data developed by Cacilia Zirn et al. and used in 
+the GoldStandard annotated data developed by Caecilia Zirn et al. and used in 
 the paper : 
 "Fine-Grained Sentiment Analysis with Structural Features".
 Please cite the above paper if this dataset is used. 
@@ -21,13 +21,17 @@ The raw_reviews folder consists of 20 longest positive and negative reviews
  for each of the product categories.
 The reviews have been numbered as per their usage in the GoldStandard. 
 
+Each review was annotated by 3 independent annotators. They were asked to mark arbitrary parts of the reviews as positive, negative, positive_towards_other_product, negative_towards_other_product or other, with the minimal units being words. 
+Then, the majority label for each word is derived. 
+
 The GoldStandard_WordList folder consists of the following fields : 
 ReviewID, Word, and Polarity. 
 The ReviewID field indicates the review each word belongs to. The reviewID
 also corresponds to the reviewIDs of the raw_reviews. 
 The Word column gives each word from the review, and the Polarity column
 gives the goldStandard polarity of each word, taken as the majority polarity
-of the annotations done by 3 annotators. Please find more details of this in
+of the annotations done by the annotators. 
+Please find more details of this in
 the "Fine-Grained Sentiment Analysis with Structural Features" paper.
 
 It has five main sentiments.
@@ -53,7 +57,8 @@ http://anthology.aclweb.org//I/I11/I11-1038.pdf
 For more information on the data , contact : 
 -------------------------------------------------------------------------
 
-Cacilia Zirn
+Caecilia Zirn
+caecilia@informatik.uni-mannheim.de
 
 
 Shachi H Kumar

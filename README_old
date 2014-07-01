@@ -1,0 +1,63 @@
+Version 1.0
+
+GoldStandard Word-Polarity
+-----------------------------------------------------------------------------
+
+This GoldStandard_Word_Polarity list has been created by Shachi H Kumar, from 
+the GoldStandard annotated data developed by Cacilia Zirn et al. and used in 
+the paper : 
+"Fine-Grained Sentiment Analysis with Structural Features".
+Please cite the above paper if this dataset is used. 
+
+Dataset : 
+The data is obtained from the Multi-Domain Sentiment Dataset that contains
+product reviews of many product types taken from amazon.com.
+
+Three product categories have been used as a part of this GoldStandard data
+generation - Kitchen and Houseware, Gourmet Food, Cellphones and Services.
+The reviews have been marked as positive or negative based on the star ratings. 
+
+The raw_reviews folder consists of 20 longest positive and negative reviews
+ for each of the product categories.
+The reviews have been numbered as per their usage in the GoldStandard. 
+
+The GoldStandard_WordList folder consists of the following fields : 
+ReviewID, Word, and Polarity. 
+The ReviewID field indicates the review each word belongs to. The reviewID
+also corresponds to the reviewIDs of the raw_reviews. 
+The Word column gives each word from the review, and the Polarity column
+gives the goldStandard polarity of each word, taken as the majority polarity
+of the annotations done by 3 annotators. Please find more details of this in
+the "Fine-Grained Sentiment Analysis with Structural Features" paper.
+
+It has five main sentiments.
+
+1) Positive 
+2) Negative
+3) Other
+4) negative_other_product (Mentions of negative aspects of other products)
+5) positive_other_product (Mentions of positive aspects of other products)
+
+
+.......................................................................
+
+PUBLICATIONS
+------------
+As mentioned above, the data and its annotation is described in more detail
+in the the paper. 
+Links to the paper is available here:
+http://anthology.aclweb.org//I/I11/I11-1038.pdf
+.......................................................................
+
+
+For more information on the data , contact : 
+-------------------------------------------------------------------------
+
+Cacilia Zirn
+
+
+Shachi H Kumar
+Graduate Student at UCSC
+email: shulluma@ucsc.edu
+.......................................................................
+
